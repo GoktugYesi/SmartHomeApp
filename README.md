@@ -1,4 +1,4 @@
-# SwiftUI-Animated-Tab-Bar
+# SwiftUI Smart Home App
 
 Figma: https://www.figma.com/community/file/1210493477904667705
 
